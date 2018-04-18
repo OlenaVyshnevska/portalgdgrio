@@ -74,8 +74,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "1700", specialCharacter: "+", info: "Menbros", detail: "De toda a Grande Rio"}
- - {count: "1000", specialCharacter: "+", info: "hours", detail: "de pura tecnologia já apresentada"}
+ - {count: "1700", specialCharacter: "+", info: "Membros", detail: "De toda a Grande Rio"}
+ - {count: "1000", specialCharacter: "+", info: "Horas", detail: "de pura tecnologia já apresentada"}
  - {count: "100", specialCharacter: "+", info: "Palestrantes", detail: "Já se juntaram ao nosso time"}
  - {count: "5", specialCharacter: "", info: "Anos", detail: "Compartilhando conhecimento"}
 
