@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Auto Post" 23
+date: 1500-01-23 09:00:00
+isStaticPost: false
+---
+Auto Post 23
+#### Title is Auto too
