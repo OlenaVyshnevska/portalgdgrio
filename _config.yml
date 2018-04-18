@@ -56,9 +56,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "gdg.jpeg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Rio de Janeiro", "Brasil", "América do Sul"'
+heroTitle: "GDG <typeout> !"
+eventDate: "Sempre!!"
+typeoutTextValues: '"", "Cidade Maravilhosa", "Rio de Janeiro", "Brasil", "América do Sul"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
