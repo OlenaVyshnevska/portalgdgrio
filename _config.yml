@@ -46,9 +46,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.meetup.com/GDGRioDeJaneiro/", text: "Junte-se a nós!"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.meetup.com/GDGRioDeJaneiro/", text: "Junte-se a nós!"}
 
 # Hero Block
 heroImage: "gdg.jpeg"
