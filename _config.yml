@@ -45,10 +45,6 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -56,13 +52,13 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "gdg.jpeg"
-heroTitle: "GDG <typeout> !"
+heroTitle: "GDG <typeout> no mundo"
 eventDate: "Sempre!!"
-typeoutTextValues: '"", "Cidade Maravilhosa", "Rio de Janeiro", "Brasil", "América do Sul"'
+typeoutTextValues: '"", " Cidade Maravilhosa e ", "Rio de Janeiro e ", "Brasil e ", "América do Sul e "'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Compre seus tickets"}
 
 # About Block
 aboutTitle: "Sobre o GDGRio"
