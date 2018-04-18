@@ -1,8 +1,0 @@
----
-layout: post
-title: "Auto Post" 28
-date: 1500-01-28 09:00:00
-isStaticPost: false
----
-Auto Post 28
-#### Title is Auto too
