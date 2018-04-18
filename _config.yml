@@ -65,22 +65,22 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDGRio"
+aboutTitle: "Sobre o GDGRio"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferências", image: "conference.jpg", text: "Gosta de ficar por dentro das tendências de tecnologia Web, Mobile, Inteligência Artificial, etc!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Um dia inteiro de Workshop, hands-on, hacking & debugging. Venha e domine sua tecnologia favorita!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Um dia inteiro de freestyle hackathon! Ta afim de construir algo que impacte as pessoas? Monte seu time e venha para o nosso hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "1700", specialCharacter: "+", info: "Menbros", detail: "De toda a Grande Rio"}
+ - {count: "1000", specialCharacter: "+", info: "hours", detail: "de pura tecnologia já apresentada"}
+ - {count: "100", specialCharacter: "+", info: "Palestrantes", detail: "Já se juntaram ao nosso time"}
+ - {count: "5", specialCharacter: "", info: "Anos", detail: "Compartilhando conhecimento"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Novidades"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
