@@ -44,7 +44,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Agenda"}
+ - {link: "https://www.meetup.com/GDGRioDeJaneiro/events/", text: "Agenda"}
 bottomNavigationLinks:
  - {link: "https://www.meetup.com/GDGRioDeJaneiro/", text: "Junte-se a nós!"}
 rightNavigationButtons:
