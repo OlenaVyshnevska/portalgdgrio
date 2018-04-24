@@ -14,10 +14,10 @@ title: "GDGRio"
 email: "rio.gdg@gmail.com"
 description: "GDGRio"
 baseurl: "/portalgdgrio"
-url: "https://backgroundapps.github.io/portalgdgrio/"
+url: "https://jonatasemidio.github.io/portalgdgrio/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "backgroundapps.github.io/portalgdgrio/"
+googleAnalyticsSiteUrl: "https://jonatasemidio.github.io/portalgdgrio/"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -177,7 +177,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://backgroundapps.github.io/portalgdgrio/", text: "gdg.rio"}
+   - {link: "https://jonatasemidio.github.io/portalgdgrio/", text: "gdg.rio"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
